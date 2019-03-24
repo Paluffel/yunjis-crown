@@ -1,5 +1,10 @@
 {
     "Yunjiscrownpinkandblue": {
-        "resourceId": "artifact:1170413026155692187"
+        "resourceId": "artifact:1170413026155692187",
+        "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1,
+        }
     }
 }
